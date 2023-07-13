@@ -1,0 +1,129 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body header {
+  margin-top: 30px;
+}
+body #s1 {
+  margin-bottom: 20px;
+}
+body #s1 .container .rows {
+  position: relative;
+}
+body #s1 .container .rows .button button {
+  background-color: rgb(195, 226, 226);
+  border: none;
+  color: rgb(14, 75, 207);
+}
+body #s1 .container .column {
+  background-color: rgb(246, 247, 247);
+  border-radius: 15px;
+  width: 53%;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  position: absolute;
+  z-index: 5;
+  top: 500px;
+}
+body #s2 {
+  padding: 50px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+body #s3 {
+  margin-top: 30px;
+}
+body #s4 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+body #s4 .container h1 {
+  text-align: center;
+  padding: 10px;
+}
+body #s4 .container .row .parent {
+  position: relative;
+}
+body #s4 .container .row .parent .child {
+  background-color: black;
+  color: white;
+  width: 40%;
+  height: 30px;
+  padding-top: 5px;
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  z-index: 5;
+}
+body #s4 .container .row .section p {
+  color: rgb(81, 162, 182);
+}
+body #s5 {
+  padding: 50px;
+}
+body #s5 .container .before {
+  padding-bottom: 50px;
+  padding-bottom: 50px;
+}
+body #s5 .container .small {
+  width: 85%;
+  margin-left: 7%;
+}
+body #s5 .container .small .para p {
+  margin-top: 35%;
+  font-size: 20px;
+}
+body #s5 .container .small .para div {
+  padding-top: 5px;
+}
+body #s6 {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+body #s6 h1 {
+  padding: 30px;
+}
+body #s6 .row1a .cola p {
+  padding: 9px;
+}
+body #s7 {
+  background-color: rgb(223, 219, 219);
+  padding: 40px;
+}
+body #s7 .image .parent {
+  margin-right: 10px;
+}
+body #s7 .image .parent3 {
+  margin-left: 30px;
+}
+body footer {
+  background-color: black;
+  padding: 40px;
+  color: white;
+}
+body footer .fp {
+  padding-bottom: 20px;
+}
+body footer .fp .footer h3 {
+  padding-left: 15px;
+}
+body footer .fp p {
+  padding: 10px;
+}
+body footer .row {
+  margin-bottom: 30px;
+}
+body footer .row .link a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: white;
+}
+body footer #last a {
+  text-decoration: none;
+  color: white;
+  padding-right: 15px;
+}/*# sourceMappingURL=scss.css.map */
